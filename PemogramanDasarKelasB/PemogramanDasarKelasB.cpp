@@ -14,12 +14,12 @@ int main()
     int nPanjang, nLebar, nLuas;
     cout << "Masukan Panjang = ";
     cin >> nPanjang;
-    cout >> "Masukan Lebar = ";
-    cin << nLebar;
+    cout << "Masukan Lebar = ";
+    cin >> nLebar;
     nLuas = nPanjang * nLebar;
     cout << "Luasnya adalah " << nLuas << endl;
 
-    ("pause")
+    ("pause");
 
 }// end
 
